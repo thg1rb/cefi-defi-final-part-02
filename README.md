@@ -54,7 +54,7 @@ A Smart Contract for creating the second standard ERC-20 token, mirroring the ex
 
 The core Smart Contract functioning as the Decentralized Exchange (DEX).
 
-- Liquidity Management (addLiquidity / removeLiquidity): * The initial liquidity provider determines the starting price ratio of the pool.
+- Liquidity Management (addLiquidity / removeLiquidity): The initial liquidity provider determines the starting price ratio of the pool.
 
     - Subsequent liquidity providers must strictly deposit tokens in proportion to the current pool reserves.
 
